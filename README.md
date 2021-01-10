@@ -8,7 +8,7 @@
 
 ### Screenshot
 
-- <img src="" alt=""/>
+- <img src="./template-project-img.png" alt="screenshot"/>
 
 ### Tech-Stack
 
